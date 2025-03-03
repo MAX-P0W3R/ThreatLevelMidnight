@@ -1,14 +1,14 @@
 <div align="center">
-  <h1><img alt="GOAD (Game Of Active Directory)" src="./docs/mkdocs/docs/img/office01.jpg"></h1>
+  <h1><img alt="Threat Level Midnight (Active Directory attack simulation)" src="./docs/img/office01.jpg"></h1>
   <br>
 </div>
-c:\Users\lifeo\OneDrive\Pictures\wallpaper\office01.jpg
+
 **Threat Level Midnight (v1)**
 
-:bookmark: Documentation : [https://orange-cyberdefense.github.io/GOAD/](https://orange-cyberdefense.github.io/GOAD/)
+:bookmark: Documentation : [https://github.com/MAX-P0W3R/ThreatLevelMidnight](https://github.com/MAX-P0W3R/ThreatLevelMidnight)
 
 ## Description
-GOAD is a pentest active directory LAB project.
+Threat Level Midnight is an active directory LAB project based on the GOAD project by MayFly.
 The purpose of this lab is to give pentesters a vulnerable Active directory environment ready to use to practice usual attack techniques.
 
 > [!CAUTION]
