@@ -4,16 +4,16 @@ from goad.utils import *
 
 def print_logo():
     logo = """[white]
-   _____   _____          _____ 
-  / ____| / ||| \\  [blue] /\\\\[/blue]   |  __ \\ 
- | |  __||  |||  | [blue]/  \\\\[/blue]  | |  | |
- | | |_ ||  |||  |[blue]/ /\\ \\\\[/blue] | |  | |
- | |__| ||  |||  [blue]/ /__\\ \\\\[/blue]| |__| |
-  \\_____| \\_|||_[blue]/________\\\\[/blue]_____/
-    [bold]Game Of Active Directory[/bold]
-      [yellow][italic]Pwning is comming[/italic][/yellow]
+████████╗██╗     [blue]███╗   ███╗[/blue]
+ ╚══██╔══╝██║     [blue]████╗ ████║[/blue]
+    ██║   ██║     [blue]██╔████╔██║[/blue]
+    ██║   ██║     [blue]██║╚██╔╝██║[/blue]
+    ██║   ███████╗[blue]██║ ╚═╝ ██║[/blue]
+    ╚═╝   ╚══════╝[blue]╚═╝     ╚═╝[/blue]
+    [bold]Threat Level Midnight[/bold]
+      [yellow][italic]That's what she PWNED[/italic][/yellow]
 [/white]
-Goad management console type help or ? to list commands
+Threat Level Midnight management console type help or ? to list commands
 """
     print(logo)
 
