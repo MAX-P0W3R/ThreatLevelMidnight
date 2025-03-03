@@ -1,9 +1,9 @@
 <div align="center">
-  <h1><img alt="GOAD (Game Of Active Directory)" src="./docs/mkdocs/docs/img/logo_GOAD3.png"></h1>
+  <h1><img alt="GOAD (Game Of Active Directory)" src="./docs/mkdocs/docs/img/office01.jpg"></h1>
   <br>
 </div>
-
-**GOAD (v3)**
+c:\Users\lifeo\OneDrive\Pictures\wallpaper\office01.jpg
+**Threat Level Midnight (v1)**
 
 :bookmark: Documentation : [https://orange-cyberdefense.github.io/GOAD/](https://orange-cyberdefense.github.io/GOAD/)
 
